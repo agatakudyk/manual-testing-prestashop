@@ -18,6 +18,7 @@ Repozytorium zawiera projekt testów manualnych dla strony e-commerce PrestaShop
 
 
 ## Narzędzia
-
+- Kontrola wersji: Git, GitHub
+- Konsola systemowa Windows PowerShell
 
 ## Informacje końcowe
